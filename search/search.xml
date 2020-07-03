@@ -4,38 +4,25 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2020/07/03/hello-world/"/>
-      <url>/2020/07/03/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>DigitalOcean&#39;s First Post</title>
-      <link href="/2015/12/31/first-post/"/>
-      <url>/2015/12/31/first-post/</url>
+      <link href="/2020/07/03/future/"/>
+      <url>/2020/07/03/future/</url>
       
-        <content type="html"><![CDATA[<h2 id="Markdown-goes-here"><a href="#Markdown-goes-here" class="headerlink" title="Markdown goes here."></a>Markdown goes here.</h2><p><strong>This is our first post!</strong></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="Thinking-about-the-future"><a href="#Thinking-about-the-future" class="headerlink" title="Thinking about the future"></a>Thinking about the future</h2><h3 id="Is-“future”-an-object"><a href="#Is-“future”-an-object" class="headerlink" title="Is “future” an object?"></a>Is “future” an object?</h3><p>There is no exact meaning of an object we name “future”.<br>In terms of cognitive psychology future is an object in our mind.<br>It’s an image of possible outcomes we see from the perspective of current moment.</p><p>When is the future in the current moment? Surprisingly, it’s in the present, in our mind.<br>What does it mean “to see the future”? The events are never what we had expected.</p><p>We can talk about the future only in the terms of “possible” (of what may happen or may not happen).</p><p>What is <strong>planning</strong>? It’s the seeing of steps from the point A to the point B, where point B is the <strong>goal</strong>.<br>When we make one step further towards the future, our vision of the future changes.</p><p>Personal strategy – <strong>understanding</strong> of one’s role and position in the event flow of the future,<br>which allows to plan actions to meet the goal.</p>]]></content>
       
       
       <categories>
           
-          <category> Hexo </category>
+          <category> cat </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Test </tag>
-            
             <tag> Blog </tag>
+            
+            <tag> Thinking </tag>
             
         </tags>
       
